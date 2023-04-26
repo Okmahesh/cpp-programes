@@ -1,1 +1,1 @@
-this repository contain all practicalspf c++
+# cpp-pragrames
